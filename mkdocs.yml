@@ -67,14 +67,3 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-nav:
-  - Easy:
-      - Intro: 'TJ_Null/Easy/index.md'
-  - Medium:
-      - Intro: 'TJ_Null/Medium/index.md' 
-  - Hard:
-      - Intro: 'TJ_Null/Hard/index.md'
-  - Insane:
-      - Intro: 'TJ_Null/Insane/index.md'
-  - Beyond:
-      - Intro: 'TJ_Null/Beyond/index.md'
