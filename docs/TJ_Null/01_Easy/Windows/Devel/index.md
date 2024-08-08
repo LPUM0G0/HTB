@@ -13,6 +13,8 @@ toc: true
 toc-own-page: true
 ...
 
+[YT](https://youtu.be/2LNyAbroZUk?si=Ldpan0ZqhFTk3C7f)
+
 # Hack The Box Writeup: [Nombre de la Máquina]
 
 ## Información General

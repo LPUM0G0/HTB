@@ -12,7 +12,7 @@ titlepage-text-color: "FFFFFF"
 toc: true
 toc-own-page: true
 ...
-
+[YT](https://youtu.be/gbs43E71mFM?si=zqDrvhqZS5zwnl-O)
 # Hack The Box Writeup: [Nombre de la Máquina]
 
 ## Información General
