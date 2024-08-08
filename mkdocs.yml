@@ -1,0 +1,80 @@
+site_name: LPUM0G0 HTB
+#site_url: https://dominio.tld 
+theme:
+  name: material
+  #logo: assets/tu_logo.png
+  #favicon: assets/tu_logo.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: es
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: pink
+      accent: pink 
+    - scheme: default 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: pink
+      accent: pink
+
+plugins:
+  - social
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/FVCW5mBQVs
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/LPUMOGO22
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mora-gómez-luis-enrique-5a7411221/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Easy:
+      - Intro: 'TJ_Null/Easy/index.md'
+  - Medium:
+      - Intro: 'TJ_Null/Medium/index.md' 
+  - Hard:
+      - Intro: 'TJ_Null/Hard/index.md'
+  - Insane:
+      - Intro: 'TJ_Null/Insane/index.md'
+  - Beyond:
+      - Intro: 'TJ_Null/Beyond/index.md'
