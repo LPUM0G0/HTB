@@ -5,7 +5,7 @@
 ### Inicia aquí
 |Nombre|SO|
 |-----|-------|
-|[Lame](./TJ_Null/01_Easy/Linux/Lame/index.md)|
+|[Lame](./TJ_Null/01_Easy/Linux/Lame/index.md)|Linux|
 |[Active](./TJ_Null/01_Easy/Windows/Active/index.md)|Windows|
 |[Shocker](./TJ_Null/01_Easy/Linux/Shocker/index.md)|Linux|
 |[Grandpa](./TJ_Null/01_Easy/Windows/Grandpa/index.md)|Windows|
@@ -24,7 +24,7 @@
 |[Netmon](./TJ_Null/05_Beyond/Windows/Netmon/index.md)|Windows|
 |[ScriptKiddie](./TJ_Null/01_Easy/Linux/ScriptKiddie/index.md)|Linux|
 |[Tabby](./TJ_Null/01_Easy/Linux/Tabby/index.md)|Linux|
-|[Heist](./TJ_Null/01_Easy/Linux/Tabby/index.md)|Windows|
+|[Heist](./TJ_Null/01_Easy/Windows/Heist/index.md)|Windows|
 
 ### Easy
 |Nombre|SO|
