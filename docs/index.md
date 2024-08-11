@@ -3,6 +3,9 @@
 ## Máquinas
 
 ### Inicia aquí
+
+Sigue las guías y toma notas, el objetivo es familiarizarte con la metodología y con las herramientas.
+
 |Nombre|SO|
 |-----|-------|
 |[Lame](./TJ_Null/01_Easy/Linux/Lame/index.md)|Linux|
@@ -13,6 +16,11 @@
 
 
 ### Practica con estas
+
+Intenta realizarlas por tu cuenta siguiendo lo aprendido en las máquinas anteriores. 
+
+Cada máquina debería tomarte dos días, el primero obten el "*user*", al segundo ve por el "*root*" (Dedica una hora cada día, si ves que en 40 minutos no has tenido progreso, ve la guía y siguela tomando notas).
+
 |Nombre|SO|
 |-----|-------|
 |[Networked](./TJ_Null/01_Easy/Linux/Networked/index.md)|Linux|
