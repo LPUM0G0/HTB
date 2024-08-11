@@ -2,11 +2,34 @@
 
 ## Máquinas
 
+### Inicia aquí
+|Nombre|SO|
+|-----|-------|
+|[Lame](./TJ_Null/01_Easy/Linux/Lame/index.md)|
+|[Active](./TJ_Null/01_Easy/Windows/Active/index.md)|Windows|
+|[Shocker](./TJ_Null/01_Easy/Linux/Shocker/index.md)|Linux|
+|[Grandpa](./TJ_Null/01_Easy/Windows/Grandpa/index.md)|Windows|
+|[Swagshop](./TJ_Null/01_Easy/Linux/Swagshop/index.md)|Linux|
+
+
+### Practica con estas
+|Nombre|SO|
+|-----|-------|
+|[Networked](./TJ_Null/01_Easy/Linux/Networked/index.md)|Linux|
+|[Granny](./TJ_Null/01_Easy/Windows/Granny/index.md)|Windows|
+|[Legacy](./TJ_Null/01_Easy/Windows/Legacy/index.md)|Windows|
+|[Optimum](./TJ_Null/01_Easy/Windows/Optimum/index.md)|Windows|
+|[Mirai](./TJ_Null/01_Easy/Linux/Mirai/index.md)|Linux|
+|[Doctor](./TJ_Null/01_Easy/Linux/Doctor/index.md)|Linux|
+|[Netmon](./TJ_Null/05_Beyond/Windows/Netmon/index.md)|Windows|
+|[ScriptKiddie](./TJ_Null/01_Easy/Linux/ScriptKiddie/index.md)|Linux|
+|[Tabby](./TJ_Null/01_Easy/Linux/Tabby/index.md)|Linux|
+|[Heist](./TJ_Null/01_Easy/Linux/Tabby/index.md)|Windows|
+
 ### Easy
 |Nombre|SO|
 |-----|-------|
 |[Armageddon](./TJ_Null/01_Easy/Linux/Armageddon/index.md)|Linux|
-|[Active](./TJ_Null/01_Easy/Windows/Active/index.md)|Windows|
 |[Bashed](./TJ_Null/01_Easy/Linux/Bashed/index.md)|Linux|
 |[Bastion](./TJ_Null/01_Easy/Windows/Bastion/index.md)|Windows|
 |[Beep](./TJ_Null/01_Easy/Linux/Beep/index.md)|Linux|
@@ -16,36 +39,25 @@
 |[Bust](./TJ_Null/01_Easy/Windows/Bust/index.md)|Windows|
 |[Delivery](./TJ_Null/01_Easy/Linux/Delivery/index.md)|Linux|
 |[Devel](./TJ_Null/01_Easy/Windows/Devel/index.md)|Windows|
-|[Doctor](./TJ_Null/01_Easy/Linux/Doctor/index.md)|Linux|
 |[Forest](./TJ_Null/01_Easy/Windows/Forest/index.md)|Windows|
 |[FriendZone](./TJ_Null/01_Easy/Linux/FriendZone/index.md)|Linux|
 |[Frolic](./TJ_Null/01_Easy/Linux/Frolic/index.md)|Linux|
-|[Grandpa](./TJ_Null/01_Easy/Windows/Grandpa/index.md)|Windows|
-|[Granny](./TJ_Null/01_Easy/Windows/Granny/index.md)|Windows|
 |[Horizontall](./TJ_Null/01_Easy/Linux/Horizontall/index.md)|Linux|
 |[Irked](./TJ_Null/01_Easy/Linux/Irked/index.md)|Linux|
 |[Jerry](./TJ_Null/01_Easy/Windows/Jerry/index.md)|Windows|
 |[Knife](./TJ_Null/01_Easy/Linux/Knife/index.md)|Linux|
 |[Love](./TJ_Null/01_Easy/Windows/Love/index.md)|Windows|
-|[Legacy](./TJ_Null/01_Easy/Windows/Legacy/index.md)|Windows|
 |[Luanne](./TJ_Null/01_Easy/Linux/Luanne/index.md)|Linux|
-|[Mirai](./TJ_Null/01_Easy/Linux/Mirai/index.md)|Linux|
-|[Networked](./TJ_Null/01_Easy/Linux/Networked/index.md)|Linux|
 |[Nibbles](./TJ_Null/01_Easy/Linux/Nibbles/index.md)|Linux|
 |[Omni](./TJ_Null/01_Easy/Windows/Omni/index.md)|Windows|
 |[OpenAdmin](./TJ_Null/01_Easy/Linux/OpenAdmin/index.md)|Linux|
-|[Optimum](./TJ_Null/01_Easy/Windows/Optimum/index.md)|Windows|
 |[Postman](./TJ_Null/01_Easy/Linux/Postman/index.md)|Linux|
 |[Previse](./TJ_Null/01_Easy/Linux/Previse/index.md)|Linux|
 |[Remote](./TJ_Null/01_Easy/Windows/Remote/index.md)|Windows|
-|[ScriptKiddie](./TJ_Null/01_Easy/Linux/ScriptKiddie/index.md)|Linux|
 |[Sense](./TJ_Null/01_Easy/Linux/Sense/index.md)|FreeBSD|
 |[ServerMon](./TJ_Null/01_Easy/Windows/ServerMon/index.md)|Windows|
-|[Shocker](./TJ_Null/01_Easy/Linux/Shocker/index.md)|Linux|
 |[Sunday](./TJ_Null/01_Easy/Linux/Sunday/index.md)|Solaris|
 |[Support](./TJ_Null/01_Easy/Windows/Support/index.md)|Windows|
-|[Swagshop](./TJ_Null/01_Easy/Linux/Swagshop/index.md)|Linux|
-|[Tabby](./TJ_Null/01_Easy/Linux/Tabby/index.md)|Linux|
 |[Traverxec](./TJ_Null/01_Easy/Linux/Traverxec/index.md)|Linux|
 |[Valentine](./TJ_Null/01_Easy/Linux/Valentine/index.md)|Linux|
 
@@ -124,7 +136,6 @@
 |[Monitors](./TJ_Null/05_Beyond/Linux/Monitors/index.md)|Linux|
 |[Monteverde](./TJ_Null/05_Beyond/Windows/Monteverde/index.md)|Windows|
 |[Nest](./TJ_Null/05_Beyond/Windows/Nest/index.md)|Windows|
-|[Netmon](./TJ_Null/05_Beyond/Windows/Netmon/index.md)|Windows|
 |[October](./TJ_Null/05_Beyond/Linux/October/index.md)|Linux|
 |[Pikaboo](./TJ_Null/05_Beyond/Linux/Pikaboo/index.md)|Linux|	
 |[Pivotapi](./TJ_Null/05_Beyond/Windows/Pivotapi/index.md)|Windows|
